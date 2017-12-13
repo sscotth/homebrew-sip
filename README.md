@@ -1,5 +1,7 @@
 # Sscotth Sip
 
+Removed any `depends_on macos: '<= :version'` restrictions
+
 ## How do I install these formulae?
 `brew install sscotth/sip/<formula>`
 

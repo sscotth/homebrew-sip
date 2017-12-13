@@ -8,8 +8,6 @@ cask 'xtrafinder' do
   name 'XtraFinder'
   homepage 'https://www.trankynam.com/xtrafinder/'
 
-  depends_on macos: '<= :yosemite'
-
   pkg 'XtraFinderInstaller.pkg'
 
   uninstall pkgutil: 'com.trankynam.xtrafinder.*'

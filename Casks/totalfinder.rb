@@ -11,8 +11,6 @@ cask 'totalfinder' do
   name 'TotalFinder'
   homepage 'https://totalfinder.binaryage.com/'
 
-  depends_on macos: '>= :mavericks'
-
   pkg 'TotalFinder.pkg'
 
   uninstall pkgutil: 'com.binaryage.pkg.totalfinder.app',
