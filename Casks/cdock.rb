@@ -7,7 +7,7 @@ cask 'cdock' do
   appcast 'https://raw.githubusercontent.com/w0lfschild/app_updates/master/cDock/appcast.xml',
           checkpoint: 'ad5283b85f03d59fa232dd7198ea553c12d88bad917c1c60cf5e170c64fe528f'
   name 'cDock 3'
-  homepage 'https://www.macenhance.com/cdock.html'
+  homepage 'https://cdock.macenhance.com/'
 
   depends_on cask: 'easysimbl'
   # depends_on macos: '>= :mavericks'
