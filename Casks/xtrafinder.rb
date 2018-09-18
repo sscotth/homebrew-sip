@@ -10,7 +10,7 @@ cask 'xtrafinder' do
 
   # depends_on macos: '<= :yosemite'
 
-  pkg 'XtraFinderInstaller.pkg'
+  pkg 'XtraFinder.pkg'
 
   uninstall pkgutil: 'com.trankynam.xtrafinder.*'
 end
