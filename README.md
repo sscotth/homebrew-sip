@@ -6,14 +6,14 @@ https://github.com/caskroom/homebrew-cask/pull/41890
 
 ## How do I install these Casks?
 
-`brew install sscotth/sip/<cask>`
+`brew cask install sscotth/sip/<cask>`
 
-Or `brew tap sscotth/sip` and then `brew install <cask>`.
+Or `brew tap sscotth/sip` and then `brew cask install <cask>`.
 
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/sscotth/homebrew-sip/master/Casks/<cask>.rb
+brew cask install https://raw.githubusercontent.com/sscotth/homebrew-sip/master/Casks/<cask>.rb
 ```
 
 ## Documentation
