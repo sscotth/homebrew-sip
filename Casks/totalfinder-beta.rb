@@ -1,6 +1,6 @@
 cask 'totalfinder-beta' do
-  version '1.11.1'
-  sha256 'cf209063b8f477bf771b9bcfe6b076495a317b70ffb598d7c25bb2f05c328884'
+  version '1.11.8'
+  sha256 'b1f2f80d2bca59d639cb9dabf4973942674b71564bd3c5b8a1029ad2df30b009'
 
   url "http://downloads.binaryage.com/TotalFinder-#{version}.dmg"
   name 'TotalFinder'
