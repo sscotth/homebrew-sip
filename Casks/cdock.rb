@@ -9,6 +9,7 @@ cask 'cdock' do
   homepage 'https://cdock.macenhance.com/'
 
   depends_on cask: 'easysimbl'
+
   # depends_on macos: '>= :mavericks'
 
   app 'cDock.app'
