@@ -3,7 +3,6 @@ cask 'xtrafinder' do
   sha256 :no_check
 
   url 'https://www.trankynam.com/xtrafinder/downloads/XtraFinder.dmg'
-  appcast 'https://www.trankynam.com/xtrafinder/releasenotes.html'
   name 'XtraFinder'
   homepage 'https://www.trankynam.com/xtrafinder/'
 
